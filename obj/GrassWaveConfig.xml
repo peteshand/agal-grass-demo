@@ -34,13 +34,15 @@
     <omit-trace-statements>true</omit-trace-statements>
     <verbose-stacktraces>false</verbose-stacktraces>
     <source-path append="true">
-      <path-element>P:\Work\2014\Portfolio\GrassWave\src</path-element>
-      <path-element>P:\Work\2014\Portfolio\GrassWave\away3d-core-fp11\src</path-element>
+      <path-element>P:\Work\2014\Portfolio\agal-grass-demo\src</path-element>
       <path-element>C:\Program Files (x86)\FlashDevelop\Library\AS3\classes</path-element>
     </source-path>
+    <library-path append="true">
+      <path-element>P:\Work\2014\Portfolio\agal-grass-demo\lib\away3d-core-fp11_4_1_6.swc</path-element>
+    </library-path>
   </compiler>
   <file-specs>
-    <path-element>P:\Work\2014\Portfolio\GrassWave\src\Main.as</path-element>
+    <path-element>P:\Work\2014\Portfolio\agal-grass-demo\src\Main.as</path-element>
   </file-specs>
   <default-background-color>#FFFFFF</default-background-color>
   <default-frame-rate>30</default-frame-rate>
