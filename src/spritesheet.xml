@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:3ae17c7e67408215eddba681028ba1bc:2750a505cc9ab25ce2fb759e842fe404:ef7663426bf705b25566a93aef3a1571$ -->
+<TextureAtlas imagePath="spritesheet.png">
+    <SubTexture name="grass1" x="2" y="2" width="71" height="494"/>
+    <SubTexture name="grass1b" x="75" y="2" width="71" height="494"/>
+    <SubTexture name="grass1c" x="148" y="2" width="71" height="494"/>
+    <SubTexture name="grass2" x="221" y="2" width="163" height="519"/>
+    <SubTexture name="grass2b" x="386" y="2" width="163" height="519"/>
+    <SubTexture name="grass2c" x="551" y="2" width="163" height="519"/>
+    <SubTexture name="grass3" x="716" y="2" width="77" height="503"/>
+    <SubTexture name="grass3b" x="795" y="2" width="77" height="503"/>
+    <SubTexture name="grass3c" x="874" y="2" width="77" height="503"/>
+    <SubTexture name="grass4" x="2" y="523" width="82" height="495"/>
+    <SubTexture name="grass4b" x="86" y="523" width="82" height="495"/>
+    <SubTexture name="grass4c" x="170" y="523" width="82" height="495"/>
+</TextureAtlas>
